@@ -162,7 +162,7 @@ margin-bottom: 2rem;
 .gallery .banner_section,
 .contact .banner_section,
 .error .banner_section{
-    background: url('../images/banner-slide/top-banner.jpg');
+    background: url('top-banner.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -181,7 +181,7 @@ margin-bottom: 2rem;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1); */
 }
 .header .navbar{
-    background: url('../images/header-bg.png');
+    background: url('header-bg.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -241,7 +241,7 @@ margin-bottom: 2rem;
 }
 /* banner section */
 .banner_section{
-    background: url('../images/banner-slide/Banner-1.jpg');
+    background: url('Banner-1.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -318,7 +318,7 @@ margin-bottom: 2rem;
 /* about section css */
 
 .landing_about_section{
-    background: url("../images/about/about-banner.jpg");
+    background: url("about-banner.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -383,7 +383,7 @@ margin-bottom: 2rem;
     
 }
 .testimonial_section .card{
-    background: url('../images/testimonial/testimonial-bg.png');
+    background: url('testimonial-bg.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -412,7 +412,7 @@ margin-bottom: 2rem;
     object-fit: cover;
 }
 .footer_wrapper{
-    background: url("../images/footer-bg/footer_bg.png");
+    background: url("footer_bg.png");
      background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
@@ -545,4 +545,5 @@ margin-bottom: 2rem;
     font-weight: 400;
     font-family: var(--secondary-font);
     margin-bottom: 0;
+
 }
